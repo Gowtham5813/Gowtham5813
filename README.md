@@ -9,7 +9,7 @@ I'm a passionate B.Tech Computer Science graduate from University College of Eng
 ### 🛠️ Tech Stack
 - **Languages**: JavaScript, C,JQuery, Python, Java,
 - **Web**: React.js, HTML, CSS, Bootstrap
-- **Backend**: Django, Node.js (Learning)
+- **Backend**: PHP, Django
 - **Database**: SQLite, PostgreSQL
 - **Tools**: Git, GitHub, VS Code, Postman
 - **Others**: LangChain, NLP, Power BI
