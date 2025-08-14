@@ -9,10 +9,10 @@ I'm a passionate B.Tech Computer Science graduate from University College of Eng
 ### 🛠️ Tech Stack
 - **Languages**: JavaScript, C,JQuery, Python, Java,
 - **Web**: React.js, HTML, CSS, Bootstrap
-- **Backend**: PHP, Django
-- **Database**: SQLite, PostgreSQL
+- **Backend**: PHP, Laravel, Django
+- **Database**: MySQL, PostgreSQL
 - **Tools**: Git, GitHub, VS Code, Postman
-- **Others**: LangChain, NLP, Power BI
+- **Others**: LangChain, NLP, LLM, Power BI
 
 ---
 
@@ -41,7 +41,7 @@ I'm a passionate B.Tech Computer Science graduate from University College of Eng
 
 ### 📫 Let's Connect
 - 📧 Email: gouthamavala@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/avalagowtham)
+- 💼 [LinkedIn](www.linkedin.com/in/gowthamavala)
 - 🌐 [Unstop Profile](https://unstop.com/user/Gowtham5813)
 
 ---
