@@ -41,7 +41,7 @@ I'm a passionate B.Tech Computer Science graduate from University College of Eng
 
 ### 📫 Let's Connect
 - 📧 Email: gouthamavala@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/gowthamavala)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gowthamavala/)
 - 🌐 [Unstop Profile](https://unstop.com/user/Gowtham5813)
 
 ---
